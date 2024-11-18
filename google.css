@@ -1,0 +1,32 @@
+.imagen{
+    width: 300px;
+    display: block;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.search_bar{
+    display: block;
+    width: 500px;
+    height: 18px;
+    padding: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    border-color: rgb(224, 214, 214);
+    border-style: solid;
+    transition: box-shadow 0.5s;
+}
+
+.search_bar:hover{
+    border-style: solid;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+
+
+.imagen:hover{
+    cursor: pointer;
+}
+
